@@ -9,4 +9,7 @@ test double file change (git test file txt)
 
 test commit for rebase
 
-test commit for rebase
+test commit for after rebase 
+
+
+test commit 1
