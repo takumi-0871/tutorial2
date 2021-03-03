@@ -2,7 +2,3 @@ this is file for git test
 
 
 test double file change
-
-
-
-test double file change ( file 2 )
