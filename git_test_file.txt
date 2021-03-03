@@ -5,5 +5,3 @@ test double file change (git test file txt)
 
 
 test double file change (git test file txt)
-
-commit test revert 
